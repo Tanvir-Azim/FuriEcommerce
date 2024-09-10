@@ -1,0 +1,1777 @@
+[
+    {
+        "id": "thapaserialnoa",
+        "name": "VASAGLE Small Coffee Table",
+        "price": 15000,
+        "colors": [
+        "#000"
+           
+        ],
+        "image":"/images/HomePage1/h1feature1.jpg",
+        "description": "The large coffee table measures 19.7”Dia. x 15.7”H and the small coffee table measures 15.7”Dia. x 14.2”H; the compact size suitable for small spaces allows you to find the right place for afternoon tea, decorations, or a laptop for work",
+        "description2":"The mix of quality particleboard and sturdy steel frame makes this side table set stable so that it won't wobble every time you pick up your coffee cup. Each small table can support up to 44 lb",
+        "featured":true,
+        "featuredmini":true,
+        "toprate":true,
+        "category": "chair",
+        "stock": 5,
+        "reviews": 58,
+        "stars": 4.8,
+        "like":20,
+        "comment":12,
+        "share":10,
+        "discount":1000.00,
+        "company":"Steelcase",
+        "available":true,
+        "images":[
+            {
+                "id": "randomid1",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1feature1.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+            },
+            {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "/images/HomePage1/h1featuremini1.jpg",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "/images/HomePage1/h1featuremini1.jpg",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url":"/images/HomePage1/h1featuremini2.jpg",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+                "id": "randomid5",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1featuremini1.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid6",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1featuremini1.jpg",
+                "filename": "prod-3.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid7",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1featuremini2.jpg",
+                "filename": "prod-4.png",
+                "size": 1080,
+                "type": "image/jpg"
+                }
+        ]
+
+},
+
+    {
+        "id": "thapaserialnob",
+        "name": "Round Coffee Table",
+        "price": 10000,
+        "colors": [
+        "#22D3EF",
+        "#CDD0D0"
+        ],
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "chair",
+        "image": "/images/HomePage1/h1feature2.jpg",
+        "shipping": true,
+        "featured":true,
+        "toprate":true,
+        "stock": 10,
+        "reviews": 28,
+        "stars": 4.4,
+        "like":32,
+        "comment":15,
+        "discount":1200.00,
+        "share":12,
+        "available":true,
+        "company":"Furniture Retail",
+        "images":[
+            {
+                "id": "randomid1",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1feature2.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+            },
+            {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "/images/HomePage1/h1feature2mini1.jpg",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "/images/HomePage1/h1feature2mini2.jpg",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url":"/images/HomePage1/h1feature2mini3.jpg",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+                "id": "randomid5",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1feature2mini1.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid6",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1feature2mini2.jpg",
+                "filename": "prod-3.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid7",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1feature2mini3.jpg",
+                "filename": "prod-4.png",
+                "size": 1080,
+                "type": "image/jpg"
+                }
+        ]
+
+
+    },
+    {
+        "id": "thapaserialnoc",
+        "name": "Round Side Table",
+        "price": 11000,
+        "colors": [
+        "#CDD0D0",
+        "#ff0000"
+        ],
+        "image": "/images/HomePage1/h1feature3.jpg",
+        "description":"Accent Coffee Table with Side Table: Elevate your home decor with our 2 Piece Round Side Table Coffee Table Accent Table Set. This set includes a large table providing you with versatile options to enhance your living room, bedroom, balcony, office, or any space in need of a stylish touch.",
+        "shipping": true,
+        "category": "chair",
+        "featured":true,
+        "toprate":true,
+        "like":18,
+        "comment":10,
+        "share":6,
+        "discount":800.00,
+        "available":false,
+        "company":"Okamura",
+        "images":[
+            {
+                "id": "randomid1",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1feature3.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+            },
+            {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "/images/HomePage1/h1feature3mini1.jpg",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "/images/HomePage1/h1feature3mini2.jpg",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url":"/images/HomePage1/h1feature3mini3.jpg",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/jpg"
+            },
+            {
+                "id": "randomid5",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1feature3mini1.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid6",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1feature3mini2.jpg",
+                "filename": "prod-3.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomi7",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1feature3mini3.jpg",
+                "filename": "prod-4.png",
+                "size": 1080,
+                "type": "image/jpg"
+                }
+        ]
+        },
+        {
+            "id": "thapaserialnod",
+            "name": "Computer Desk ",
+            "company": "Ashley",
+            "price": 7000,
+            "colors": [
+            "#000",
+            "#CDD0D0"
+            ],
+            "image":  "/images/HomePage1/h1feature4.jpg",
+            "description": "【Diversified Scenarios】The office desk is designed with a modern simple style, suitable for different styles of scenes, such as living rooms, bedrooms, and offices. It is suitable for various users, such as children, teenagers, students, and teachers, serving as a study work desk.",
+            "category": "chair",
+            "shipping": true,
+            "featured":true,
+            "featuredmini":true,
+            "bestseller":true,
+            "like":30,
+            "comment":10,
+            "share":8,
+            "discount":2000.00,
+            "available":true,
+            "images":[
+                {
+                    "id": "randomid1",
+                    "width": 1080,
+                    "height": 650,
+                    "url":"/images/HomePage1/h1feature4.jpg",
+                    "filename": "prod-2.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                },
+                {
+                "id": "randomid2",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1feature4mini3.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid3",
+                "width": 1080,
+                "height": 650,
+                "url": "/images/HomePage1/h1feature4mini2.jpg",
+                "filename": "prod-3.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                "id": "randomid4",
+                "width": 1080,
+                "height": 650,
+                "url":"/images/HomePage1/h1feature4mini3.jpg",
+                "filename": "prod-4.png",
+                "size": 1080,
+                "type": "image/jpg"
+                },
+                {
+                    "id": "randomid5",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "/images/HomePage1/h1feature4.jpg",
+                    "filename": "prod-2.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                    },
+                    {
+                    "id": "randomid6",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "/images/HomePage1/h1feature4mini1.jpg",
+                    "filename": "prod-3.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                    },
+                    {
+                    "id": "randomid7",
+                    "width": 1080,
+                    "height": 650,
+                    "url":"/images/HomePage1/h1feature4mini2.jpg",
+                    "filename": "prod-4.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                    }
+            ]
+    
+            },
+            {
+                "id": "thapaserialnoe",
+                "name": "Computer Desk",
+                "price": 12000,
+                "colors": [
+                "#ff0000",
+                "#CDD0D0"
+                ],
+                "image": "/images/HomePage1/h1feature5.jpg",
+                "description":"VERSATILE WORK DESK: Our computer desk is a perfect corporate or home-office desk and works in any contemporary or modern space. It features a spacious bottom shelf and keyboard tray and measures 29.5",
+                "category": "bed",
+                "featured":true,
+                "shipping": true,
+                "bestseller":true,
+                "available":true,
+                "like":26,
+                "comment":12,
+                "share":5,
+                "discount":1000.00,
+                "company":"Steelcase",
+                "images":[
+                    {
+                        "id": "randomid1",
+                        "width": 1080,
+                        "height": 650,
+                        "url":"/images/HomePage1/h1feature5.jpg",
+                        "filename": "prod-2.png",
+                        "size": 1080,
+                        "type": "image/jpg"
+                    },
+                    {
+                    "id": "randomid2",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "/images/HomePage1/h1feature5mini1.jpg",
+                    "filename": "prod-2.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                    },
+                    {
+                    "id": "randomid3",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "/images/HomePage1/h1feature5mini2.jpg",
+                    "filename": "prod-3.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                    },
+                    {
+                    "id": "randomid4",
+                    "width": 1080,
+                    "height": 650,
+                    "url":"/images/HomePage1/h1feature5mini3.jpg",
+                    "filename": "prod-4.png",
+                    "size": 1080,
+                    "type": "image/jpg"
+                    },
+                    {
+                        "id": "randomid5",
+                        "width": 1080,
+                        "height": 650,
+                        "url": "/images/HomePage1/h1feature5mini1.jpg",
+                        "filename": "prod-2.png",
+                        "size": 1080,
+                        "type": "image/jpg"
+                        },
+                        {
+                        "id": "randomid6",
+                        "width": 1080,
+                        "height": 650,
+                        "url": "/images/HomePage1/h1feature5mini2.jpg",
+                        "filename": "prod-3.png",
+                        "size": 1080,
+                        "type": "image/jpg"
+                        },
+                        {
+                        "id": "randomid7",
+                        "width": 1080,
+                        "height": 650,
+                        "url":"/images/HomePage1/h1feature5mini3.jpg",
+                        "filename": "prod-4.png",
+                        "size": 1080,
+                        "type": "image/jpg"
+                        }
+                    
+            
+                ]
+        
+            
+                    },
+                    {
+                        "id": "thapaserialnof",
+                        "name": "Round Side End Table",
+                        "price": 18000,
+                        "colors": [
+                        "#ff0000",
+                        "#CDD0D0"
+                        ],
+                        "image":"/images/HomePage1/h1feature6.jpg",
+                        "description":"[Quick and Easy to Assemble] Thanks to the simple structure and clear instructions, this side table can be assembled in 5-10 minutes",
+                        "category": "bed",
+                        "featured": true,
+                        "shipping": true,
+                        "bestseller":true,
+                        "featuredmini":true,
+                        "like":20,
+                        "comment":12,
+                        "share":10,
+                        "discount":1300.00,
+                        "available":false,
+                        "company":"Furniture Retail",
+                        
+                        "images":[
+                            {
+                                "id": "randomid1",
+                                "width": 1080,
+                                "height": 650,
+                                "url":"/images/HomePage1/h1feature6.jpg",
+                                "filename": "prod-2.png",
+                                "size": 1080,
+                                "type": "image/jpg"
+                            },
+                        
+                            {
+                                "id": "randomid2",
+                                "width": 1080,
+                                "height": 650,
+                                "url":"/images/HomePage1/h1feature6mini1.jpg",
+                                "filename": "prod-2.png",
+                                "size": 1080,
+                                "type": "image/jpg"
+                            },
+                            {
+                            "id": "randomid3",
+                            "width": 1080,
+                            "height": 650,
+                            "url": "/images/HomePage1/h1feature6mini2.jpg",
+                            "filename": "prod-3.png",
+                            "size": 1080,
+                            "type": "image/jpg"
+                            },
+                            {
+                            "id": "randomid4",
+                            "width": 1080,
+                            "height": 650,
+                            "url":"/images/HomePage1/h1feature6mini3.jpg",
+                            "filename": "prod-4.png",
+                            "size": 1080,
+                            "type": "image/jpg"
+                            },
+                            {
+                                "id": "randomid5",
+                                "width": 1080,
+                                "height": 650,
+                                "url":"/images/HomePage1/h1feature6mini1.jpg",
+                                "filename": "prod-2.png",
+                                "size": 1080,
+                                "type": "image/jpg"
+                            },
+                            {
+                            "id": "randomid6",
+                            "width": 1080,
+                            "height": 650,
+                            "url": "/images/HomePage1/h1feature6mini2.jpg",
+                            "filename": "prod-3.png",
+                            "size": 1080,
+                            "type": "image/jpg"
+                            },
+                            {
+                            "id": "randomid7",
+                            "width": 1080,
+                            "height": 650,
+                            "url":"/images/HomePage1/h1feature6mini3.jpg",
+                            "filename": "prod-4.png",
+                            "size": 1080,
+                            "type": "image/jpg"
+                            }
+                        ]
+                
+                        },
+                        {
+                            "id": "thapaserialnog",
+                            "name": "Round Side End Table",
+                            "price": 15000,
+                            "colors": [
+                           "#ff0000",
+                            "#22D3EF"
+                            ],
+                            "image": "/images/HomePage1/h1feature7.jpg",
+                            "category": "bed",
+                            "shipping": true,
+                            "featured":true,
+                            "stock": 5,
+                                "reviews": 58,
+                                "stars": 4.8,
+                                "like":20,
+                                "comment":12,
+                                "share":10,
+                                "company":"Ashley",
+                                "available":true,
+                                "images":[
+                                    {
+                                        "id": "randomid1",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1feature7.jpg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid2",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "/images/HomePage1/h1feature7mini1.jpg",
+                                    "filename": "prod-2.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid3",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "/images/HomePage1/h1feature7mini2.jpg",
+                                    "filename": "prod-3.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid4",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url":"/images/HomePage1/h1feature7mini3.jpg",
+                                    "filename": "prod-4.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                        "id": "randomid5",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1feature7mini1.jpg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid6",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1feature7mini2.jpg",
+                                        "filename": "prod-3.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid7",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1feature7mini3.jpg",
+                                        "filename": "prod-4.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        }
+                                    
+                                
+                                ]
+                        
+                            },
+                            {
+                                "id": "thapaserialnoh",
+                                "name": "Sweetcrispy Computer Desk",
+                                "price": 9000,
+                                "colors": [
+                                "#ff0000",
+                                "#CDD0D0",
+                                "#22D3EF"
+                                ],
+                                "image":"/images/HomePage1/h1feature2.jpg",
+                                "description": "The large coffee table measures 19.7”Dia. x 15.7”H and the small coffee table measures 15.7”Dia. x 14.2”H; the compact size suitable for small spaces allows you to find the right place for afternoon tea, decorations, or a laptop for work",
+                                "description2":"The mix of quality particleboard and sturdy steel frame makes this side table set stable so that it won't wobble every time you pick up your coffee cup. Each small table can support up to 44 lb",
+                                "featured":false,
+                                "bestseller":true,
+                                "stock": 5,
+                                "reviews": 58,
+                                "stars": 4.8,
+                                "like":20,
+                                "comment":12,
+                                "share":10,
+                                "discount":3000.00,
+                                "available":true,
+                                "category": "bed",
+                                "company":"Ashley",
+                                "images":[
+                                    {
+                                        "id": "randomid1",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1feature8mini2.jpg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid2",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "/images/HomePage1/h1feature8mini1.jpg",
+                                    "filename": "prod-2.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid3",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "/images/HomePage1/h1feature8mini2.jpg",
+                                    "filename": "prod-3.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid4",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url":"/images/HomePage1/h1feature8mini3.jpg",
+                                    "filename": "prod-4.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                        "id": "randomid2",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1feature8mini1.jpg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid3",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1feature8mini2.jpg",
+                                        "filename": "prod-3.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid4",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1feature8mini3.jpg",
+                                        "filename": "prod-4.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        }
+                                ]
+                        
+                        },
+                        {
+                            "id": "thapaserialnoi",
+                            "name": "Roling Sit-Stand Desk",
+                            "price": 10000,
+                            "colors": [
+                            "#000",
+                            "#22D3EF"
+                            ],
+                            "image": "/images/HomePage1/h1latest1.jpeg",
+                           "description":"【Sit Stand Desk Adjustable Height 】: This sit-stand desk can be adjusted to a height of 27.6-45.3 inches (67-115cm),",
+                            "description2":"【Sit Stand Desk Adjustable Height 】: This sit-stand desk can be adjusted to a height of 27.6-45.3 inches (67-115cm), allowing you to customize it to your preferred height.",
+                            "category": "sofa",
+                            
+                            "minibestseller":true,
+                            "discount":20000,
+                            "available":false,
+                            "company":"Ashley",
+                            "stock": 5,
+                                "reviews": 68,
+                                "stars": 3.8,
+                                "like":20,
+                                "comment":12,
+                                "share":10,
+                                "images":[
+                                    {
+                                        "id": "randomid1",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1latest1.jpeg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid2",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "/images/HomePage1/h1latestmini1.jpeg",
+                                    "filename": "prod-2.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid3",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url":"/images/HomePage1/h1latestmini2.jpeg",
+                                    "filename": "prod-3.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                    "id": "randomid4",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url":"/images/HomePage1/h1latestmini3.jpeg",
+                                    "filename": "prod-4.png",
+                                    "size": 1080,
+                                    "type": "image/jpg"
+                                    },
+                                    {
+                                        "id": "randomid5",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1latestmini1.jpeg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid6",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1latestmini2.jpeg",
+                                        "filename": "prod-3.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid7",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1latestmini3.jpg",
+                                        "filename": "prod-4.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        }
+                                    
+                                
+                                ]
+                        
+                            },
+                            {
+                                "id": "thapaserialnoii",
+                                "name": "SMUG Standing Desk",
+                                "price": 15000,
+                                "colors": [
+                                "#ff0000",
+                                "#22D3EF"
+                                ],
+                                "image": "/images/HomePage1/h1latest2.jpeg",
+                                "description":"【Ergonomic Healthy Style】The ergonomic electric standing desk allows you to release your hands and effortlessly customize the desired height between 28.7''- 48''. With a high-quality motor, our adjustable desk operates quietly at less than 55dB and can be used with confidence even in the quietest room.",
+                                "description2":"【Precise & Stable Adjustment】Designed to cater to your needs, our stand up desk design features an LED display and 3 memory presets, helping you make precise and quick adjustments. The robust wooden desktop and the T-shaped steel frame ensure maximum stability and can hold up to 176 lbs.",
+                                "category": "sofa",
+                                "shipping": true,
+                                "bestseller":true,
+                                "hotsale":true,
+                                "discount":20000,
+                                "stock": 5,
+                                    "reviews": 68,
+                                    "stars": 3.8,
+                                    "like":20,
+                                    "comment":12,
+                                    "share":10,
+                                    "available":true,
+                                    "company":"Okamura",
+                                    "images":[
+                                        {
+                                            "id": "randomid1",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url":"/images/HomePage1/h1latest2.jpeg",
+                                            "filename": "prod-2.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid2",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "/images/HomePage1/h1latest2mini1.jpeg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid3",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1latest2mini2.jpeg",
+                                        "filename": "prod-3.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                        "id": "randomid4",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"/images/HomePage1/h1latest2mini3.jpeg",
+                                        "filename": "prod-4.png",
+                                        "size": 1080,
+                                        "type": "image/jpg"
+                                        },
+                                        {
+                                            "id": "randomid5",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "/images/HomePage1/h1latest2mini4.jpeg",
+                                            "filename": "prod-2.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            },
+                                            {
+                                            "id": "randomid6",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "/images/HomePage1/h1latest2mini5.jpeg",
+                                            "filename": "prod-3.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            },
+                                            {
+                                            "id": "randomid7",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url":"/images/HomePage1/h1latest2mini1.jpg",
+                                            "filename": "prod-4.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            }
+                                        
+                                    
+                                    ]
+
+                                
+                                
+                                },
+                                {
+                                    "id": "thapaserialnoJ",
+                                    "name": "VECELO Computer Desk",
+                                    "price": 16000,
+                                    "colors": [
+                                    "#CDD0D0",
+                                    "#22D3EF"
+                                    ],
+                                    "image": "/images/HomePage1/h1latest3.jpg",
+                                     "description":"【Keyboard Tray & Storage Shelves】Corner desk with keyboard tray and two open shelves on the side provides working space and extra plenty of storage space.Both sides of the corner desk are 29.5 inches",
+                                     "description2":"【Sturdy & Durable】Made of high quality MDF which ensures sturdy and durable.It provides enough durable work surfaces.",
+                                    "category": "sofa",
+                                    "shipping": true,
+                                    "discount":20000,
+                                    "hotsale":true,
+                                    "featured":true,
+                                    "stock": 5,
+                                        "reviews": 68,
+                                        "stars": 3.8,
+                                        "like":20,
+                                        "comment":12,
+                                        "share":10,
+                                        "company":"Steelcase",
+                                        "available":true,
+                                        "images":[
+                                            {
+                                                "id": "randomid1",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url":"/images/HomePage1/h1latest3.jpg",
+                                                "filename": "prod-2.png",
+                                                "size": 1080,
+                                                "type": "image/jpg"
+                                            },
+                                            {
+                                            "id": "randomid2",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "/images/HomePage1/h1latest3mini1.jpg",
+                                            "filename": "prod-2.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            },
+                                            {
+                                            "id": "randomid3",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url":"/images/HomePage1/h1latest3mini2.jpg",
+                                            "filename": "prod-3.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            },
+                                            {
+                                            "id": "randomid4",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url":"/images/HomePage1/h1latest3mini3.jpg",
+                                            "filename": "prod-4.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            },
+                                            {
+                                                "id": "randomid5",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url":"/images/HomePage1/h1latest3.jpg",
+                                                "filename": "prod-2.png",
+                                                "size": 1080,
+                                                "type": "image/jpg"
+                                            },
+                                            {
+                                            "id": "randomid6",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "/images/HomePage1/h1latest3mini1.jpg",
+                                            "filename": "prod-2.png",
+                                            "size": 1080,
+                                            "type": "image/jpg"
+                                            }
+
+                                    
+                                            
+                                        
+                                        ]
+    
+                                    
+                                    
+                                    },
+
+                                    {
+                                        "id": "thapaserialnok",
+                                        "name": "Office Small Computer Desk",
+                                        "price": 16000,
+                                        "colors": [
+                                       
+                                        "#22D3EF",
+                                        "#CDD0D0"
+                                        ],
+                                        "image": "/images/HomePage1/h1latest4.jpg",
+                                         "description":"【Multi Scenes】Our desk is available in a variety of sizes and colors for the perfect match, allowing you to have a unique user experience. This home office desk is suitable for most people, including executives, teachers, and secretaries",
+                                         "description2":"High-quality Materials】This work desk for home office also features a waterproof and scratch-resistant desktop. Easy to clean, long service life",
+                                        "category": "light",
+                                        "shipping": true,
+                                        "bestseller":true,
+                                        "latest":true,
+                                        "saleProduct":true,
+                                        "discount":20000,
+                                        "available":false,
+                                        "stock": 5,
+                                            "reviews":32,
+                                            "stars": 4.5,
+                                            "like":20,
+                                            "comment":12,
+                                            "share":10,
+                                            "company":"Furniture Retail",
+                                            "images":[
+                                                {
+                                                    "id": "randomid1",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest4.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                },
+                                                {
+                                                "id": "randomid2",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url": "/images/HomePage1/h1latest4mini1.jpg",
+                                                "filename": "prod-2.png",
+                                                "size": 1080,
+                                                "type": "image/jpg"
+                                                },
+                                                {
+                                                "id": "randomid3",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url":"/images/HomePage1/h1latest4mini2.jpg",
+                                                "filename": "prod-3.png",
+                                                "size": 1080,
+                                                "type": "image/jpg"
+                                                },
+                                                {
+                                                "id": "randomid4",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url":"/images/HomePage1/h1latest4mini3.jpg",
+                                                "filename": "prod-4.png",
+                                                "size": 1080,
+                                                "type": "image/jpg"
+                                                },
+                                                {
+                                                    "id": "randomid5",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest4mini5.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                },
+                                                {
+                                                "id": "randomid6",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url": "/images/HomePage1/h1latest4mini6.jpg",
+                                                "filename": "prod-2.png",
+                                                "size": 1080,
+                                                "type": "image/jpg"
+                                                }
+    
+                                        
+                                                
+                                            
+                                            ]
+        
+                                        
+                                        
+                                        },
+                                        {
+                                            "id": "thapaserialnol",
+                                            "name": "Study Writing Table",
+                                            "price": 11000,
+                                            "company":"BOKE Furniture",
+                                            "colors": [    
+                                            "#CDD0D0",
+                                            "#22D3EF"
+                                            ],
+                                            "image": "/images/HomePage1/h1latest5.jpg",
+                                             "description":"Adjustable Storage Shelves: The 39.4-inch computer desk comes with versatile storage shelves that can be adjusted up or down to conveniently store your CPU or other items.",
+                                             "description2":"Space-Saving Design: Perfect for small spaces like apartments, dorms, or home offices, offering a practical and efficient workstation solution.",
+                                            "category": "light",
+                                            "shipping": true,
+                                            "latest":true,
+                                            "minibestseller":true,
+                                            "discount":20000,
+                                            "available":true,
+                                            "stock": 5,
+                                            "hotsale":true,
+                                                "reviews":32,
+                                                "stars": 4.0,
+                                                "like":20,
+                                                "comment":12,
+                                                "share":10,
+                                                "images":[
+                                                    {
+                                                        "id": "randomid1",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest5.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest5mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest5mini2.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest5mini3.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                        "id": "randomid5",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest5mini4.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid6",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest5mini5.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    }
+        
+                                            
+                                                    
+                                                
+                                                ]
+            
+                                            
+                                            },
+                                            {  "id": "thapaserialom",
+                                            "name": "Frame Computer Desk",
+                                            "price": 11000,
+                                            "colors": [
+                                            "#000",
+                                            "#CDD0D0"
+                                            ],
+                                            "image": "/images/HomePage1/h1latest6.jpg",
+                                             "description":"Adjustable Storage Shelves: The 39.4-inch computer desk comes with versatile storage shelves that can be adjusted up or down to conveniently store your CPU or other items.",
+                                             "description2":"Space-Saving Design: Perfect for small spaces like apartments, dorms, or home offices, offering a practical and efficient workstation solution.",
+                                            "category": "light",
+                                            "shipping": true,
+                                            "latest":true,
+                                            "bestseller":true,
+                                            "saleProduct":true,
+                                            "discount":20000,
+                                            "available":true,
+                                            "company":"BOKE Furniture",
+                                            "stock": 5,
+                                                "reviews":32,
+                                                "stars": 4.0,
+                                                "like":20,
+                                                "comment":12,
+                                                "share":10,
+                                                "images":[
+                                                    {
+                                                        "id": "randomid1",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest6.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest6mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest6mini2.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest6mini3.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                        "id": "randomid5",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest6.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid6",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest6mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    }
+        
+                                            
+                                                    
+                                                
+                                                ]
+            
+                                            
+                                            },
+                                            {  "id": "thapaserialon",
+                                            "name": "Computer Desk",
+                                            "price": 11000,
+                                            "colors": [
+                                            "#000",
+                                            "#22D3EF",
+                                            "#ff0000",
+                                            "#CDD0D0"
+                                            ],
+                                            "image": "/images/HomePage1/h1latest7.jpg",
+                                             "description":"Adjustable Storage Shelves: The 39.4-inch computer desk comes with versatile storage shelves that can be adjusted up or down to conveniently store your CPU or other items.",
+                                             "description2":"Space-Saving Design: Perfect for small spaces like apartments, dorms, or home offices, offering a practical and efficient workstation solution.",
+                                            "category":"Table",
+                                            "shipping": true,
+                                            "available":false,
+                                           
+                                            "latest":true,
+                                            "minibestseller":true,
+                                            "discount":20000,
+                                            "stock": 5,
+                                                "reviews":32,
+                                                "stars": 4.0,
+                                                "like":20,
+                                                "comment":12,
+                                                "share":10,
+                                                "company":"Furniture Retail",
+                                                "images":[
+                                                    {
+                                                        "id": "randomid1",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest7.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest7mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest7mini2.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest7mini3.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                        "id": "randomid5",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest7.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid6",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest6mini2.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    }
+        
+                                            
+                                                    
+                                                
+                                                ]
+            
+                                            
+                                            },
+                                            {  "id": "thapaserialop",
+                                            "name": "Corner Computer Desk",
+                                            "price": 11000,
+                                            "colors": [
+                                            "#000",
+                                            "#ff0000",
+                                            "#22D3EF"
+                                            ],
+                                            "image": "/images/HomePage1/h1latest8.jpg",
+                                             "description":"Adjustable Storage Shelves: The 39.4-inch computer desk comes with versatile storage shelves that can be adjusted up or down to conveniently store your CPU or other items.",
+                                             "description2":"Space-Saving Design: Perfect for small spaces like apartments, dorms, or home offices, offering a practical and efficient workstation solution.",
+                                            "category": "kitchen",
+                                            "shipping": true,
+                                            "available":true,
+                                            "latest":true,
+                                            "discount":20000,
+                                            "bestseller":true,
+                                            "saleProduct":true,
+                                            "stock": 5,
+                                                "reviews":32,
+                                                "stars": 4.0,
+                                                "like":20,
+                                                "comment":12,
+                                                "share":10,
+                                                "company":"Okamura",
+                                                "images":[
+                                                    {
+                                                        "id": "randomid1",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest8.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest8mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest8mini2.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage1/h1latest8mini3.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                        "id": "randomid5",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage1/h1latest8mini4.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid6",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage1/h1latest8mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    }
+          
+                                                
+                                                ]
+            
+                                            
+                                            },
+                                            {  
+                                                
+                                            "id": "thapaserialoq",
+                                            "name": "Wall Sconce Lamp",
+                                            "price": 9000,
+                                            "available":false,
+                                            "colors": [
+                                            "#000",
+                                            "#ff0000",
+                                            "#22D3EF"
+                                            ],
+                                            "image": "/images/HomePage2/h2banner1.jpeg",
+                                             "description":"CREATIVE DESIGN: Designer's perfect design, Nordic Japanese style, modern wall lamp, add more features to your home.",
+                                             "description2":"DURABLE MATERIAL: Bright brass swing arm wall sconce body with white ceramic shade and wood grain color base, easy to clean and won't rust, it's a premium wall sconce.",
+                                            "category": "kitchen",
+                                            "shipping": true,
+                                            "discount":11000,
+                                           "h2banner":true,
+                                            "stock": 5,
+                                                "reviews":32,
+                                                "stars": 4.0,
+                                                "like":20,
+                                                "comment":12,
+                                                "share":10,
+                                                "company":"Steelcase",
+                                                "images":[
+                                                    {
+                                                        "id": "randomid1",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2bannermini1.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage2/h2bannermini2.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage2/h2bannermini3.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage2/h2bannermini4.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                        "id": "randomid5",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2bannermini1.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid6",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage2/h2bannermini2.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    }
+          
+                                                
+                                                ]
+            
+                                            
+                                            },
+                                            {  
+                                            "id": "thapaserialor",
+                                            "name": "Wall Sconce Lamp",
+                                            "price": 9000,
+                                            "available":true,
+                                            "colors": [
+                                            "#000",
+                                            "#ff0000",
+                                            "#22D3EF"
+                                            ],
+                                            "image": "/images/HomePage2/h2banner2.jpeg",
+                                             "description":"CREATIVE DESIGN: Designer's perfect design, Nordic Japanese style, modern wall lamp, add more features to your home.",
+                                             "description2":"DURABLE MATERIAL: Bright brass swing arm wall sconce body with white ceramic shade and wood grain color base, easy to clean and won't rust, it's a premium wall sconce.",
+                                            "category": "Chair",
+                                            "discount":11000,
+                                            "h2banner":true,
+                                            "company":"Okamura",
+                                            "stock": 5,
+                                                "reviews":32,
+                                                "stars": 4.0,
+                                                "like":20,
+                                                "comment":12,
+                                                "share":10,
+                                                "images":[
+                                                    {
+                                                        "id": "randomid1",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner2mini1.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage2/h2banner2mini3.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage2/h2banne2rmini4.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"/images/HomePage2/h2banner2mini5.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    },
+                                                    {
+                                                        "id": "randomid5",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner2mini6.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                    },
+                                                    {
+                                                    "id": "randomid6",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "/images/HomePage2/h2banner2mini1.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/jpg"
+                                                    }
+          
+                                                
+                                                ]
+            
+                                            
+                                            },
+                                            {  
+                                                "id": "thapaserialos",
+                                                "name": "Blue Fabric Dining Chairs",
+                                                "price": 8000,
+                                                "available":false,
+                                                "colors": [
+                                                "#000",
+                                                "#ff0000",
+                                                "#22D3EF"
+                                                ],
+                                                "image": "/images/HomePage2/h2banner3.jpeg",
+                                                 "description":"Stylish Comfort: These vidaXL dining chairs, upholstered in vibrant blue fabric, make a stylish, comfortable addition to any dining room or living space",
+                                                 "description2":"Padded Comfort: Our chairs feature high-density foam padding in the seat, armrests, and backrest, creating an inviting, comfortable seating experience",
+                                                "category": "Table",
+                                                "shipping": true,
+                                                "discount":10000,
+                                                "h2banner":true,
+                                                "company":"BOKE Furniture",
+                                                "stock": 5,
+                                                    "reviews":32,
+                                                    "stars": 4.0,
+                                                    "like":20,
+                                                    "comment":12,
+                                                    "share":10,
+                                                    "images":[
+                                                        {
+                                                            "id": "randomid1",
+                                                            "width": 1080,
+                                                            "height": 650,
+                                                            "url":"/images/HomePage2/h2banner3mini1.jpg",
+                                                            "filename": "prod-2.png",
+                                                            "size": 1080,
+                                                            "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid2",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner3.jpeg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid3",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner3mini2.jpg",
+                                                        "filename": "prod-3.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid4",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner3mini3.jpg",
+                                                        "filename": "prod-4.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        },
+                                                        {
+                                                            "id": "randomid5",
+                                                            "width": 1080,
+                                                            "height": 650,
+                                                            "url":"/images/HomePage2/h2banner3mini1.jpg",
+                                                            "filename": "prod-2.png",
+                                                            "size": 1080,
+                                                            "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid6",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url": "/images/HomePage2/h2banner3mini1.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        }
+              
+                                                    
+                                                    ]
+                
+                                                
+                                                },
+                                                {  
+                                                "id": "thapaserialot",
+                                                "available":false,
+                                                "name": "Blue Fabric Dining Chairs",
+                                                "price": 8000,
+                                                "colors": [
+                                                "#000",
+                                                "#ff0000",
+                                                "#22D3EF"
+                                                ],
+                                                "image": "/images/HomePage2/h2banner4.jpeg",
+                                                 "description":"Stylish Comfort: These vidaXL dining chairs, upholstered in vibrant blue fabric, make a stylish, comfortable addition to any dining room or living space",
+                                                 "description2":"Padded Comfort: Our chairs feature high-density foam padding in the seat, armrests, and backrest, creating an inviting, comfortable seating experience",
+                                                "category": "Table",
+                                                "shipping": true,
+                                                "discount":10000,
+                                                "h2banner":false,
+                                                "company":"Ashley",
+                                                "stock": 5,
+                                                    "reviews":32,
+                                                    "stars": 4.0,
+                                                    "like":20,
+                                                    "comment":12,
+                                                    "share":10,
+                                                    "images":[
+                                                        {
+                                                            "id": "randomid1",
+                                                            "width": 1080,
+                                                            "height": 650,
+                                                            "url":"/images/HomePage2/h2banner4mini1.jpg",
+                                                            "filename": "prod-2.png",
+                                                            "size": 1080,
+                                                            "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid2",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner4mini2.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid3",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner4mini3.jpg",
+                                                        "filename": "prod-3.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid4",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url":"/images/HomePage2/h2banner4mini4.jpg",
+                                                        "filename": "prod-4.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        },
+                                                        {
+                                                            "id": "randomid5",
+                                                            "width": 1080,
+                                                            "height": 650,
+                                                            "url":"/images/HomePage2/h2banner4mini5.jpg",
+                                                            "filename": "prod-2.png",
+                                                            "size": 1080,
+                                                            "type": "image/jpg"
+                                                        },
+                                                        {
+                                                        "id": "randomid6",
+                                                        "width": 1080,
+                                                        "height": 650,
+                                                        "url": "/images/HomePage2/h2banner4mini6.jpg",
+                                                        "filename": "prod-2.png",
+                                                        "size": 1080,
+                                                        "type": "image/jpg"
+                                                        }
+              
+                                                    
+                                                    ]
+                
+                                                
+                                                }                                  
+                                 
+                     
+]
